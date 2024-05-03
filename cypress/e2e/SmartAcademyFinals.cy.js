@@ -1,7 +1,7 @@
 import User from "../fixtures/ZootopiaUserdata.json"
 
 
-describe("რეგისტრაცია ვალიდური მონაცემებით",()=>{
+describe("რეგისტრაცია ვალიდური მონაცემებითთ",()=>{
     it("Case 1",()=>{
 
         cy.visit("https://testzootopia.loremipsum.ge/ka")
