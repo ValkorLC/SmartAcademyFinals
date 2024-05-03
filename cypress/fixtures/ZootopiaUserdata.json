@@ -1,0 +1,19 @@
+{
+    "DATA":{
+        "Name":"Sebastian",
+        "Email":"Ctest@test.ge",
+        "Password":"test1234",
+        "PersonaID":"123456713",
+        "MobileNumber":"155123413"
+        },
+    
+    "DATA1":{
+            "IncorrectEmail":"test5@test.ge",
+            "Password":"test1234"
+        },
+    "DATA2":{
+            "CorrectEmail":"Ctest@test.ge",
+            "Password":"test1234"
+        }
+    }
+    

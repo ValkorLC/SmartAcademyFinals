@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+node_modules
+downloads
+1-getting-started
+2-advanced-examples
